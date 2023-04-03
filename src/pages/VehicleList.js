@@ -61,7 +61,7 @@ const VehicleList = () => {
                                 <th>No Registrasi</th>
                                 <th>Nama Pemilik</th>
                                 <th>Merk Kendaraan</th>
-                                <th>Tahun Pembelian</th>
+                                <th>Tahun Pembuatan</th>
                                 <th>Kapasitas</th>
                                 <th>Action</th>
                             </tr>
